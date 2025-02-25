@@ -2,9 +2,9 @@
     "configurations": [
         {
             "type": "chrome",
-            "name": "https//:5501-boilerplate-mochachai",
+            "name": "https//:3000-boilerplate-mochachai",
             "request": "launch",
-            "url": "https//:5501-boilerplate-mochachai"
+            "url": "https//:3000-boilerplate-mochachai"
         }
     ]
 }
