@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "https//:5501-boilerplate-mochachai",
+            "request": "launch",
+            "url": "https//:5501-boilerplate-mochachai"
+        }
+    ]
+}
